@@ -1,0 +1,15 @@
+<resources>
+
+    <style name="BaseAppTheme" parent="@style/ThemeOverlay.AppCompat.Dark">
+        <item name="colorPrimary">#eb3515</item>
+        <item name="colorPrimaryDark">#eb3515</item>
+    </style>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="@style/BaseAppTheme">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowActionBar">true</item>
+        <item name="android:windowTranslucentNavigation">true</item>
+    </style>
+
+</resources>

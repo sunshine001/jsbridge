@@ -1,0 +1,11 @@
+apply plugin: 'java'
+
+sourceCompatibility = JavaVersion.VERSION_1_7
+targetCompatibility = JavaVersion.VERSION_1_7
+
+dependencies {
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+    compile rootProject.ext.deps.autoservice
+    compile rootProject.ext.deps.javapoet
+    compile project(':jsapibridge')
+}

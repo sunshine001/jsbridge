@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/cisco/Documents/project/github/SourceCode/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        revision="24.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/Users/cisco/Documents/project/github/SourceCode/app/build/intermediates/jill/debug/packaged/internal_impl-24.0.0-0d7010f256a55b1fe05cd8d2f229a7e878aea5c9.jar" />
+    </item>
+    <item
+        jar="/Users/cisco/Documents/project/github/SourceCode/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/jars/classes.jar"
+        revision="24.0.0"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="/Users/cisco/Documents/project/github/SourceCode/app/build/intermediates/jill/debug/packaged/classes-f58dc5164b6a4ca725a244afcb5fcd44700ea44a.jar" />
+    </item>
+    <item
+        jar="/Users/cisco/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
+        revision="24.0.0"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/Users/cisco/Documents/project/github/SourceCode/app/build/intermediates/jill/debug/packaged/support-annotations-24.0.0-f502472d845b2e60a5c7615bdebe92c756310d6e.jar" />
+    </item>
+    <item
+        jar="/Users/cisco/Documents/project/github/SourceCode/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/jars/classes.jar"
+        revision="24.0.0"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="/Users/cisco/Documents/project/github/SourceCode/app/build/intermediates/jill/debug/packaged/classes-ad797c9dec34d002cc22bb35769d2349b0c702f3.jar" />
+    </item>
+    <item
+        jar="/Users/cisco/Documents/project/github/SourceCode/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0/jars/classes.jar"
+        revision="24.0.0"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="/Users/cisco/Documents/project/github/SourceCode/app/build/intermediates/jill/debug/packaged/classes-1bf9b9638d148f00b52f9139c4cd87d816402675.jar" />
+    </item>
+    <item
+        jar="/Users/cisco/Documents/project/github/SourceCode/jspai/build/libs/jspai.jar"
+        revision="24.0.0"
+        sha1="ec9d2bd320678b0f2d17bf0761a04b3ede906337">
+        <dex dex="/Users/cisco/Documents/project/github/SourceCode/app/build/intermediates/jill/debug/packaged/jspai-cc44a58a938beae23d7e2ae22853f00d1c49faef.jar" />
+    </item>
+    <item
+        jar="/Users/cisco/Library/Android/sdk/platforms/android-24/android.jar"
+        revision="24.0.0"
+        sha1="3028a81d396ad26d94b6e0cefce2ecd85d0c3dbd">
+        <dex dex="/Users/cisco/Documents/project/github/SourceCode/app/build/intermediates/jill/debug/runtime/android-e65ea0444de032b79f5fcbc80971f0c6b8903de8.jar" />
+    </item>
+    <item
+        jar="/Users/cisco/Documents/project/github/SourceCode/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        revision="24.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/Users/cisco/Documents/project/github/SourceCode/app/build/intermediates/jill/debug/packaged/classes-134b64b0650e87119d17db34ca0fa688c4edf90e.jar" />
+    </item>
+
+</items>

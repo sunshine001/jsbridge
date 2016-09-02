@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/cisco/Documents/github/jsapibridge-git/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="ea5c8f059fbd8d3d9d574ce6ee80ce05cd1eb801">
+        <dex dex="/Users/cisco/Documents/github/jsapibridge-git/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_1df74cd2512eba2142486fa239423b30d7fdc86c/classes.dex" />
+    </item>
+    <item
+        jar="/Users/cisco/Documents/github/jsapibridge-git/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="/Users/cisco/Documents/github/jsapibridge-git/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.0.0_858c998b1d2944a7f006957d3dd89d5efb92ab7b/classes.dex" />
+    </item>
+    <item
+        jar="/Users/cisco/Documents/github/jsapibridge-git/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="/Users/cisco/Documents/github/jsapibridge-git/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.0.0_476fae1d4da82239542ce01010f64ffb77ba2b7c/classes.dex" />
+    </item>
+    <item
+        jar="/Users/cisco/Documents/github/jsapibridge-git/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="ade6a188cd78841b0559f68683342d2dfadc6319">
+        <dex dex="/Users/cisco/Documents/github/jsapibridge-git/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_a645b424cbbfa34f424d27648dc166c47b7da5bf/classes.dex" />
+    </item>
+    <item
+        jar="/Users/cisco/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/24.0.0/2943c74db6d4346ab8c6531adac91fa05c137c40/support-annotations-24.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/Users/cisco/Documents/github/jsapibridge-git/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.0.0_1e9efdf29bca2ce9de0d68b023e9f177c5d0e617/classes.dex" />
+    </item>
+    <item
+        jar="/Users/cisco/Documents/github/jsapibridge-git/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/Users/cisco/Documents/github/jsapibridge-git/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_6d20b7ca60e70f6a03d4359130acad54eab47873/classes.dex" />
+    </item>
+    <item
+        jar="/Users/cisco/Documents/github/jsapibridge-git/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="/Users/cisco/Documents/github/jsapibridge-git/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.0.0_fb735cab6f1b9cf093dea68cabbca728357f5c8a/classes.dex" />
+    </item>
+    <item
+        jar="/Users/cisco/Documents/github/jsapibridge-git/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/Users/cisco/Documents/github/jsapibridge-git/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.0.0_efd56c2f73aa9f6b644f483b2f357e59e639344f/classes.dex" />
+    </item>
+
+</items>

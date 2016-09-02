@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jsapibridge.jsapibridge">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jsapibridge/build/libs/jsapibridge.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

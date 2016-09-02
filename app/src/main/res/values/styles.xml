@@ -1,0 +1,15 @@
+<resources>
+
+    <style name="BaseAppTheme" parent="Theme.AppCompat.Light">
+        <item name="colorPrimary">#eb3515</item>
+        <item name="colorPrimaryDark">#eb3515</item>
+        <!-- The rest of your attributes -->
+    </style>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="@android:style/Theme.DeviceDefault.Light.NoActionBar.TranslucentDecor">
+        <item name="android:windowTranslucentNavigation">true</item>
+        <item name="android:windowTranslucentStatus">true</item>
+    </style>
+
+</resources>
