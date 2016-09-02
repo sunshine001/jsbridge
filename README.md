@@ -1,0 +1,5 @@
+# jsapibridge
+
+jsapibridge是一个方法映射中间件。在程序编译过程中，jsapibridge通过abstractProcessor获取所有被JSApi或JSApiError注解的方法，
+通过javaPoet技术动态生成Api代理类JSApiProxy.java。
+
