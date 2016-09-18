@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="jspaiprocessor.jspaiprocessor">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/jspaiprocessor/build/libs/jspaiprocessor.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
